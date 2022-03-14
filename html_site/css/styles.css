@@ -1,0 +1,19 @@
+body {
+    background-color: #EFFFFD;
+}
+hr {
+    background-color: aqua;
+    border-style: none;
+    height: 2px;
+}
+h1 {
+    position: absolute;
+    left: 150px;
+    color: #85F4FF;
+}
+h3 {
+    color: #42C2FF;
+}
+#teste{
+    color: red;
+}
