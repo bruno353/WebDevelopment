@@ -10,7 +10,7 @@ https://github.com/bruno353/WebDevelopment/tree/master/API%20app
 
 ### To do list:
 Javascript, express, body-parser, node-js, HTML, CSS/Bootstrap, EJS, Mongoose(MongoDB):
-https://github.com/bruno353/WebDevelopment/tree/master/To%20do%20list
+https://github.com/bruno353/WebDevelopment/tree/master/toDoList
 
 ### Building a RESTful API:
 https://github.com/bruno353/WebDevelopment/tree/master/RESTfulAPI
